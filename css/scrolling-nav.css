@@ -1,8 +1,3 @@
-/*!
- * Start Bootstrap - Scrolling Nav (http://startbootstrap.com/)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
- */
 
 body {
     width: 100%;
@@ -16,6 +11,13 @@ html {
 
 @media(min-width:767px) {
     .navbar {
+        /*added but not change*/
+
+
+        /*added but not change*/
+        background-color: transparent;
+        border: none;
+        text-transform: uppercase;
         padding: 20px 0;
         -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
         -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
@@ -31,16 +33,11 @@ html {
 The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children 
 of those sections to manage the look and feel of the site. */
 .navbar-brand>img {
+    background-image: url(../images/CLICKZOOgreen.png);
     max-height: 100%;
     height: 100%;
     width: auto;
     margin: 0 auto;
-
-
-    /* probably not needed anymore, but doesn't hurt */
-    -o-object-fit: contain;
-    object-fit: contain;
-
 }
 .intro-section {
     height: 100%;
