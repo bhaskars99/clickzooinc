@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cbd7ab3-942f-4997-b747-1f22c6a9275b" name="Default" comment="work on background img and intro section">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/startbootstrap-scrolling-nav-gh-pages.iml" afterPath="$PROJECT_DIR$/.idea/ClickzooMarketing.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="7cbd7ab3-942f-4997-b747-1f22c6a9275b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/scrolling-nav.css" afterPath="$PROJECT_DIR$/css/scrolling-nav.css" />
     </list>
     <ignored path="startbootstrap-scrolling-nav-gh-pages.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -342,7 +338,7 @@
       <workItem from="1485860819158" duration="316000" />
       <workItem from="1485891524267" duration="1527000" />
       <workItem from="1485917548570" duration="616000" />
-      <workItem from="1486188548538" duration="4856000" />
+      <workItem from="1486188548538" duration="4881000" />
     </task>
     <task id="LOCAL-00001" summary="update info for readme file">
       <created>1485851313372</created>
@@ -386,11 +382,18 @@
       <option name="project" value="LOCAL" />
       <updated>1485861021840</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="change code for navbar">
+      <created>1486194460031</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1486194460032</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17103000" />
+    <option name="totallyTimeSpent" value="17128000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -434,7 +437,8 @@
     <MESSAGE value="include js files for smooth scrolling as per instruction" />
     <MESSAGE value="changes in navbar" />
     <MESSAGE value="work on background img and intro section" />
-    <option name="LAST_COMMIT_MESSAGE" value="work on background img and intro section" />
+    <MESSAGE value="change code for navbar" />
+    <option name="LAST_COMMIT_MESSAGE" value="change code for navbar" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
