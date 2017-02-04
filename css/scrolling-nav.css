@@ -12,40 +12,20 @@ html {
 .intro-section h1{
     font-size: 72px;
     line-height: 72px;
-    font-family: 'Pacifico';
+    font-family: 'Pacifico', cursive;
+}
+.intro-section h1{
+    color: black;
 }
 .intro-section h1 span{
     color: #72c04a;
 }
 .intro-section h2{
+    color: white;
     font-size: 18px;
     line-height: 24px;
-    font-family: 'Raleway Medium';
+    font-family: 'Raleway Medium', sans-serif;
 }
-
-@media(min-width:767px) {
-    .navbar {
-        /*added but not change*/
-
-
-        /*added but not change*/
-        background-color: transparent;
-        border: none;
-        text-transform: uppercase;
-        padding: 20px 0;
-        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
-        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
-        transition: background .5s ease-in-out,padding .5s ease-in-out;
-    }
-
-    .top-nav-collapse {
-        padding: 0;
-    }
-}
-
-/* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
-The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children 
-of those sections to manage the look and feel of the site. */
 .navbar-brand>img {
     background-image: url(../images/CLICKZOOgreen.png);
     max-height: 100%;
@@ -53,6 +33,16 @@ of those sections to manage the look and feel of the site. */
     width: auto;
     margin: 0 auto;
 }
+.navbar-default{
+    font-size: 28px;
+    text-transform: uppercase ;
+    border:none;
+    background: transparent;
+}
+.nav{
+    color: white;
+}
+
 .intro-section {
     height: 100%;
     padding-top: 150px;
